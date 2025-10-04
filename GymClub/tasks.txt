@@ -1,0 +1,3 @@
+Task Name,Description,Category,Start Date,Due Date,Created Time,Completed
+Push-ups, it focuses on muscle building,Strength Training,2024-12-03,2025-03-03,14:46:28.606199,false
+Mountain climb, it focuses on improving strength,Bodyweight Exercise,2024-12-03,2025-03-03,14:48:11.983439300,false
